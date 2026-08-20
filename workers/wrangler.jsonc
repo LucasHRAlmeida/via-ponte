@@ -1,0 +1,8 @@
+{
+  "name": "via-ponte",
+  "main": "via-bridge.js",
+  "compatibility_date": "2026-08-20",
+  "routes": [
+    { "pattern": "iniciativa-via.com/v/*", "zone_name": "iniciativa-via.com" }
+  ]
+}
