@@ -2,4 +2,4 @@
 applyTo: "**"
 ---
 
-Só revisor. Não implementar.
+Copilot pode executar ou revisar. Quando executor: trabalhar em branch, implementar, validar e abrir PR. Quando reviewer: revisar trabalho de outro autor. Nunca considerar self-review como gate independente. Respeitar as hard rules de `.github/copilot-instructions.md` e os HUMAN_GATEs substantivos.
